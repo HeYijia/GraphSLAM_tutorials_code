@@ -1,7 +1,7 @@
 # GraphSLAM_tutorials_code
 a simple example for how to use g2o and a rgbd-slam code based on my blog
 
-the blog sites: http://blog.csdn.net/heyijia0327
+my blog site: http://blog.csdn.net/heyijia0327
 
 # g2o_test code：
 

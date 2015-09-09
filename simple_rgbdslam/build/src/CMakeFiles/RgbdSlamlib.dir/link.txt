@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libRgbdSlamlib.a  CMakeFiles/RgbdSlamlib.dir/FrameData.cpp.o
+/usr/bin/ranlib ../../lib/libRgbdSlamlib.a

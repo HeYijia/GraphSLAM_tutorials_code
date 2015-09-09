@@ -1,0 +1,2 @@
+/home/hyj/rgbdslam_tutorials/simple_rgbdslam/build/src/CMakeFiles/RgbdSlamlib.dir
+/home/hyj/rgbdslam_tutorials/simple_rgbdslam/build/src/CMakeFiles/rgbdslam.dir
